@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodMenuApp</string>
+    <string name="menu_screen_title">Menu</string>
+    <string name="search_label">Search for product or category</string>
+    <string name="bottom_nav_label_tables">Tables</string>
+    <string name="bottom_nav_label_orders">Orders</string>
+    <string name="bottom_nav_label_menu">Menu</string>
+    <string name="bottom_nav_label_settings">Settings</string>
+    <string name="view_order_label">View order</string>
+    <string name="currency_label">SAR %s</string>
+    <string name="retry_action">Retry</string>
+    <string name="empty_screen_content">Place Holder</string>
+</resources>
