@@ -15,6 +15,7 @@
 4. Utilizes the NavController in combination with a navigation bar for smooth navigation between screens.
 5. Theme: Currently Support white theme only.
 6. Localization: Currently Support the English language only.
+7. For images, I generated them randomly using Mockaroo, from the [Pixabay](https://pixabay.com/) website.
 
 ## small app demo :
 https://github.com/user-attachments/assets/160a2ec4-974e-4ff7-b45a-4cd72dd5932e
